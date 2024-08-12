@@ -12,8 +12,8 @@ Version Control: Git 2.25.1
 Instructions for Running the Implementation:
 1. Ensure Python is Installed:
    Confirm that Python 3.8 is installed on your machine. You can check the version by running:
-   
    python3 version
+
 
    
 2. Download/Clone the Project:
@@ -22,11 +22,14 @@ Instructions for Running the Implementation:
    git clone <repository-url>
    cd <repository-directory>
 
+
  3. Running the Script:
     Navigate to the directory where your Python script is located.
     Run the script using the following command:
 
     python3 <script_name>.py
+
+
 
 4. Input Data:
    The script will prompt you to enter the input data.
@@ -38,9 +41,11 @@ Instructions for Running the Implementation:
 - Enter the transition table, where each row corresponds to the transitions for a state
 
 
+
 5. Output:
 The script will output the equivalent pairs of states for each DFA after minimization.
 Dependencies:
 
-6. No external dependencies are required for this implementation beyond a standard Python installation.
+
+7. No external dependencies are required for this implementation beyond a standard Python installation.
 
